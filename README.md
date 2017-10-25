@@ -9,7 +9,8 @@ The data was sourced from a Kaggle Competition found [here](https://www.kaggle.c
   - Do some exploratory data analysis
   - Find out what factors impact price
   - Predict price using regression across the whole set
-  - Explore clustering
+  - Explore using clustering for predictions
+  - Explore using regression trees for predictions
 
 
 #### The dataset is composed of the following features:
